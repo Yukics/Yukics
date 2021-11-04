@@ -11,7 +11,7 @@
 + In constant need of coffe, so original
 + Archery athlete
 + May we play some chess?
-+ I also 3D print
++ I also 3D print stuff on my customized Ender 3 😏
 
 #### 😎 Proud of:
 + 2nd Place on Balear Skills 2021 hackathon
