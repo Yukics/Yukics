@@ -18,7 +18,7 @@
 + 9.4 Average on GM Sistemas microinformaticos y redes
 
 
-<div>
+<div float="left">
   
   [![Yukics's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukics&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
