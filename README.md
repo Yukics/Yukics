@@ -1,6 +1,6 @@
 # Hi! happy to meet you!
 
-## 🤷‍♂️ What i do:
+## 🤷‍♂️ What am i doing?
 
 + Currently studying ASIR DUAL
 + Currently working as Sysadmin
@@ -18,12 +18,12 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## 👍 About me:
+## 👍 About me
 
 + In constant need of coffe, so original
-+ Archery athlete
++ Archery athlete, at least i try to
 + May we play some chess?
-+ I also 3D print stuff on my customized Ender 3 😏
++ I also 3D print stuff on my Ender 3 when it is not broken 😏
 
 ## 😎 Proud of:
 
