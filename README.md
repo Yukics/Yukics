@@ -29,8 +29,10 @@
 
 + 2nd Place on Balear Skills 2021 hackathon
 + 9.4 Average on GM Sistemas microinformaticos y redes
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukics&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yukics's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukics&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-
+<a href="https://github.com/Yukics/Yukics">
+  <img align="center" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=Yukics&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukics&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
