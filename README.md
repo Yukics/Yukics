@@ -30,6 +30,8 @@
 + 2nd Place on Balear Skills 2021 hackathon
 + 9.4 Average on GM Sistemas microinformaticos y redes
 
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/Yukics/Yukics">
   <img align="center" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=Yukics&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
