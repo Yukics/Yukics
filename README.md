@@ -2,11 +2,10 @@
 
 ## 🤷‍♂️ What am i doing?
 
-+ Currently studying ASIR DUAL
-+ Currently working as Sysadmin
++ Currently studying Cyberscuirty specialization
++ Working as Sysadmin/DevOps, swiss knife really
 + Learning about hacking and new technologies
 + Writing for my [blog](https://yukics.wordpress.com/) when i have some free time
-+ Developing an archery tournament managemente API MERN based
 
 ## 🔧 Technologies & Tools 
 
@@ -29,6 +28,7 @@
 
 + 2nd Place on Balear Skills 2021 hackathon
 + 9.4 Average on GM Sistemas microinformaticos y redes
++ Developep an Archery tournaments management tool called ARCO (Next.js & MongoDB)
 
 ## &#x1f4c8; GitHub Stats
 
