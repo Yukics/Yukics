@@ -3,7 +3,7 @@
 ## 🤷‍♂️ What am i doing?
 
 + Currently studying Cyberscuirty specialization
-+ Working as Sysadmin/DevOps, swiss knife really
++ Working as Sysadmin 
 + Learning about hacking and new technologies
 + Writing for my [blog](https://yukics.wordpress.com/) when i have some free time
 
