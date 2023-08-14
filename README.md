@@ -23,6 +23,7 @@
 + Archery athlete, at least i try to
 + May we play some chess?
 + I also 3D print stuff on my Ender 3 when it is not broken 😏
++ U can tell [Codewars](https://www.codewars.com/users/Yukics)
 
 ## 😎 Proud of:
 
