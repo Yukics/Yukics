@@ -2,10 +2,10 @@
 
 ## 🤷‍♂️ What am i doing?
 
-+ Currently studying Cyberscuirty specialization
 + Working as Sysadmin 
 + Learning about hacking and new technologies
 + Writing for my [blog](https://yukics.wordpress.com/) when i have some free time
++ Glad to contribute any interesting project around
 
 ## 🔧 Technologies & Tools 
 
@@ -19,7 +19,7 @@
 
 ## 👍 About me
 
-+ In constant need of coffe, so original
++ In constant need of coffe
 + Archery athlete, at least i try to
 + May we play some chess?
 + I also 3D print stuff on my Ender 3 when it is not broken 😏
@@ -29,7 +29,7 @@
 
 + 2nd Place on Balear Skills 2021 hackathon
 + 9.4 Average on GM Sistemas microinformaticos y redes
-+ Developep an Archery tournaments management tool called ARCO (Next.js & MongoDB)
++ Developed an Archery tournaments management tool called ARCO (Next.js & MongoDB)
 
 ## &#x1f4c8; GitHub Stats
 
