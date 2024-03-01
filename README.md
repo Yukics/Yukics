@@ -5,7 +5,7 @@
 + Working as Sysadmin 
 + Learning about hacking and new technologies
 + Writing for my [blog](https://yukics.wordpress.com/) when i have some free time
-+ Glad to contribute any interesting project around
++ Glad to contribute any interesting projects around
 
 ## 🔧 Technologies & Tools 
 
@@ -19,7 +19,7 @@
 
 ## 👍 About me
 
-+ In constant need of coffe
++ In constant need of coffee
 + Archery athlete, at least i try to
 + May we play some chess?
 + I also 3D print stuff on my Ender 3 when it is not broken 😏
